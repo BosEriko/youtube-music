@@ -15,3 +15,6 @@ curl -fsSL https://raw.githubusercontent.com/BosEriko/youtube-music/HEAD/install
 
 ## Enable Custom Theme
 Enable the [custom theme](custom.css) by going to `Options` > `Visual Tweaks` > `Theme` > `Import cusom css file`.
+
+## Copy Configuration
+Copy your [configuration](config.json) to the current configuration `Options` > `Advanced options` > `Edit config.json`.
